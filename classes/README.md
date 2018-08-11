@@ -6,7 +6,7 @@ class SomeClass(object):
     pass
 ```
 
-This simple declares a class that does nothing. You can also create contructor methods in python that extend basic setup of objects 
+This simply declares a class that does nothing. You can also create contructor methods in python that extend basic setup of objects 
 
 ```python
 class SomeClass(object):
