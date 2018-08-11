@@ -1,3 +1,5 @@
+# Demonstrating some aspects of object oriented programming
+
 class SomeClass(object):
     class_name = "First Class"
 
